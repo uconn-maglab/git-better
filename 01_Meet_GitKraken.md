@@ -54,4 +54,28 @@ This new branch contains all of the history of branch master, but any new
 commits will stay on this branch until you merge it with branch master (or any
 other branch).
 
+### Modifying, staging, committing, pushing
 
+If you're still reading this file on GitHub (or the projector), you can open it
+in your favorite text editor now.
+
+You should also open the file `demo-files/add-things-here.md` in your text
+editor. Add some stuff to it. Whatever you want (within reason—remember that
+what you push to the repository will be public).
+
+Then switch back to GK. On the right, you'll see `demo-files/add-things-here.md`
+listed under Unstaged Files with a yellow icon. That means there are modifications
+that have not yet been staged to commit.
+
+Hover over the file and click the green button that says "Stage file." If you
+have multiple modified files, you can press the "Stage all changes" button above
+the Unstaged Files box.
+
+The file should have moved to the Staged Files box.
+
+If you're ready to commit your changes, click on the Summary box below "Commit
+Message." This is where you write your commit message. If you need an extended
+commit message, you can write that in the Description box below. Otherwise,
+leave the Description box blank.
+
+When you are satisfied with your commit message, hit "Commit."
