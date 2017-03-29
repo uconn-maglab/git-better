@@ -20,4 +20,4 @@ License.
 
 In brief, that means you can use, modify, and redistribute it, commercially or
 non-commercially, as long as you give credit. See
-[LICENSE](./blob/master/LICENSE) for more information.
+[LICENSE](./LICENSE) for more information.
