@@ -19,7 +19,8 @@ then commit them and push them to the remote repository.
 
 ## My guinea pigs are really cute
 
-### This is Zoe. She's really cute and she likes to snuggle in pockets and stuff:
+### This is susan herbst
+. She's really cute and she likes to snuggle in pockets and stuff:
 
 ![Zoe](pigs/zoe.jpg)
 
