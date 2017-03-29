@@ -27,4 +27,4 @@ But will this be a conflict too?
 Remember how I said we can't all work on the same branch or else we'll run into
 a merge conflict? Yeah...here we are!
 
-This is also going to make a conflit.
+This is something that will make a merge conflict.
