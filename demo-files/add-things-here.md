@@ -1,6 +1,6 @@
 # Add things here
 
->This file is for demonstration purposes. You can add things to it and
+>This eewrtrt file is for demonstration purposes. You can add things to it and
 then commit them and push them to the remote repository.
 
 * add stuff
@@ -19,13 +19,14 @@ then commit them and push them to the remote repository.
 * bar
 * baz
 
-## My guinea pigs are really cute
+## My guinea pigs are really better at organic chemistry than i am
 
-### This is Zoe. She's really cute and she likes to snuggle in pockets and stuff:
+
+### This is Zoe. She's really better than I am at organic chemistry and she likes to practice drawing reactions in her free time and stuff:
 
 ![Zoe](pigs/zoe.jpg)
 
-### This is Zuka. She also likes to snuggle. You get two photos of her because she's mostly hidden:
+### This is Zuka. She also likes to chemistry and hates herself. You get two photos of her because she's mostly hidden (because she's doing chemistry probably):
 
 ![Zuka 1](pigs/zuka1.jpg)
 
