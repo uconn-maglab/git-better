@@ -3,6 +3,8 @@
 >This file is for demonstration purposes. You can add things to it and
 then commit them and push them to the remote repository.
 
+* add stuff
+
 ## Steps in the Git workflow
 
 * (Pull)
