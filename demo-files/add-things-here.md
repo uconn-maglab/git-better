@@ -19,7 +19,7 @@ then commit them and push them to the remote repository.
 
 ## My guinea pigs are really cute
 
-### This is Zoe. She's really cute and she likes to snuggle in pockets and stuff:
+### This is Zoe. She's really cute and she likes to snuggle in pockets and stuff: ADORABLE!
 
 ![Zoe](pigs/zoe.jpg)
 
@@ -32,3 +32,5 @@ then commit them and push them to the remote repository.
 ### This is Marcie, short for Marceline but unofficially short for Toasted Marshmallow. She likes exploring more than snuggling. That's my boyfriend Mike holding her. He's also cute:
 
 ![Marcie](pigs/marcie.jpg)
+
+TEST TEST TEST TEST TEST GIT GIT GIT GIT GIT
