@@ -20,9 +20,9 @@ then commit them and push them to the remote repository.
 ## My guinea pigs are really better at organic chemistry than i am
 
 
-### This is Zoe. She's really better than I am at organic chemistry and she likes to practice drawing reactions in her free time and stuff:
+### This is susan herbst . She's really better than I am at organic chemistry and she likes to practice drawing reactions in her free time and stuff:
 
-![Zoe](pigs/zoe.jpg)
+![Zoe](pigs/Herbst.jpg)
 
 ### This is Zuka. She also likes to chemistry and hates herself. You get two photos of her because she's mostly hidden (because she's doing chemistry probably):
 
