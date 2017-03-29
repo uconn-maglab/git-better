@@ -127,13 +127,23 @@ You should also open the file `demo-files/add-things-here.md` in your text
 editor. Add some stuff to it. Whatever you want (within reason—remember that
 what you push to the repository will be public).
 
-Then switch back to GK. On the right, you'll see `demo-files/add-things-here.md`
-listed under Unstaged Files with a yellow icon. That means there are modifications
-that have not yet been staged to commit.
+Then switch back to GK. On the right, you'll see
+`demo-files/add-things-here.md` listed under Unstaged Files with a yellow icon.
+That means there are modifications that have not yet been staged to commit.
 
-Hover over the file and click the green button that says "Stage file." If you
-have multiple modified files, you can press the "Stage all changes" button above
-the Unstaged Files box.
+Click the file name. This will open the **diff**. You will see some parts
+highlighted in green, where you added things, and maybe some parts in red where
+you deleted things. Note that modifying a line counts deleting it and adding
+a new one.
+
+If you hover over a green or red section, you will see a plus sign to the side.
+If you click that, you can stage that chunk without needing to stage the whole
+file. This is super useful if you ever make multiple unrelated changes to
+a single file and want to commit them individually.
+
+You can also stage the whole file by hovering over the file and clicking the
+green button that says "Stage file." If you have multiple modified files, you
+can press the "Stage all changes" button above the Unstaged Files box.
 
 The file should have moved to the Staged Files box.
 
@@ -143,3 +153,10 @@ commit message, you can write that in the Description box below. Otherwise,
 leave the Description box blank.
 
 When you are satisfied with your commit message, hit "Commit."
+
+Now, you can push your commit up to GitHub. Press the Push button on the upper
+toolbar.
+
+Easy as that! Go check it out on GitHub. Click the dropdown menu that says
+"Branch: master" and select your branch from it. Navigate to
+`demo-files/add-things-here.md` and you should see your new work.
