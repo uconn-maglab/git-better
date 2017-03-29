@@ -27,8 +27,8 @@
 - [  ] Forking
   - [  ] Incl. forking after you already have a clone (updating remotes)
 - [  ] Tools for your editor (e.g., vim's gitgutter)
-- [  ] Merge conflicts:
-  - [  ] Resolving them
-  - [  ] Avoiding them
+- [x ] Merge conflicts:
+  - [x ] Resolving them
+  - [x ] Avoiding them
 - [  ] Pull requests
 - [  ] Semver?
