@@ -36,4 +36,13 @@ then commit them and push them to the remote repository.
 
 ![Marcie](pigs/marcie.jpg)
 
-Here's some conflicting stuff.
+
+
+
+
+
+I wonder why I didn't have any merge conflict...
+
+
+
+
