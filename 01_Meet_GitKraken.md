@@ -88,10 +88,10 @@ the same license as the original, whereas the MIT license does not have that
 constraint.
 
 An individual preference for one license or another is a matter of personal
-philosophy and practical considerations. Just make sure that if you are publishing
-your work, you have *some* license on it (or an explicit statement of all rights reserved),
-and that if you are using someone else's work, you do so in 
-
+philosophy and practical considerations. Just make sure that if you are
+publishing your work, you have *some* license on it (or an explicit statement
+of all rights reserved), and that if you are using someone else's work, you do
+so in keeping with the terms of the project's license.
 
 ## Git workflow with GitKraken
 
