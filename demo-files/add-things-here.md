@@ -1,6 +1,6 @@
 # Add things here
 
->This file is for demonstration purposes. You can add things to it and
+>This eewrtrt file is for demonstration purposes. You can add things to it and
 then commit them and push them to the remote repository.
 
 ## Steps in the Git workflow
