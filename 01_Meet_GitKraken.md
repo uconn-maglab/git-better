@@ -29,6 +29,70 @@ Then hit "Clone the repo!"
 When it is done cloning, there will be a message at the top of the window
 asking if you want to switch to the repository now; click this button.
 
+## README and LICENSE
+
+Among the first things you should notice in a repository are the README and the
+license.
+
+### The README
+
+Most projects have a README. This file is displayed on the home page of
+a GitHub repository. It gives the visitor (and potential contributor) important
+information, such as the purpose of the project, the language(s) used in its
+development, how to obtain the project (whether you can download a packaged
+version or if you have to build it from source), what to know when
+contributing, and licensing information.
+
+The README can be any kind of text file (e.g., `.txt`, `.md`, `.rst`), but due to
+GitHub's fancy Markdown rendering capabilities, Markdown is the most common.
+
+The README should be the first place you look when you have questions about how
+to go about setting up someone else's project. Likewise, any projects you
+maintain should have an up-to-date README with all the necessary information in
+it. It may take time to get the hang of what to put in a README, but you can
+get a good idea by looking at other projects.
+
+### The License
+
+Licensing is extremely important, but luckily it's also pretty easy to
+understand an to do for your own work.
+
+By default, everything you create is copyrighted to you with all rights
+reserved. That means no one is permitted to modify or distribute it without your
+express permission.
+
+When you are sharing your work online, you will often *want* people to have
+some of these rights so that they can use your work and contribute to its further
+development, or share it with others who might find it useful.
+
+There are many licenses that facilitate sharing to various degrees.
+
+Works of text, art, etc. might be good candidates for a [Creative Commons
+License](https://creativecommons.org). The site will ask a couple questions
+about your preferences on use, modification, distribution, etc. and then find
+the license that matches your needs.
+
+As you can see from the README, this tutorial is licensed under the Creative
+Commons Attribution license, meaning loosely that the user can do whatever they
+want as long as they provide credit.
+
+Anything with code should use a software license.
+[Choosealicense.org](https://Choosealicense.org) can help find one for you.
+
+The two most common open source software licenses are probably the [MIT
+License](https://opensource.org/licenses/MIT) and the [GNU General Public
+License (GPL)](https://opensource.org/licenses/GPL-3.0). Both of these allow
+people to use and modify your code as long as they give you credit. The main
+difference is that the GNU GPL requires that modifications be licensed under
+the same license as the original, whereas the MIT license does not have that
+constraint.
+
+An individual preference for one license or another is a matter of personal
+philosophy and practical considerations. Just make sure that if you are publishing
+your work, you have *some* license on it (or an explicit statement of all rights reserved),
+and that if you are using someone else's work, you do so in 
+
+
 ## Git workflow with GitKraken
 
 ### Branching
